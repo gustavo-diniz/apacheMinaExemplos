@@ -8,8 +8,8 @@ usando IO bloqueante, cada conexão deve ser processada por uma thread separada,
 leitura/escrita podem ficar bloqueadas à espera de resposta, enquanto no NIO uma única thread pode lidar, 
 de forma assíncrona, com várias conexões. Isso faz com que o desempenho do servidor seja mais eficiente.
 
-Exemplos com comunicação em conexões TCP
-Exemplos com comunicação em conexões UDP
+- Exemplos com comunicação em conexões TCP
+- Exemplos com comunicação em conexões UDP
 
 # TCP
 
